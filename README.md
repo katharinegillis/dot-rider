@@ -1,11 +1,5 @@
 # katharinegillis/rider
-Just a bunch of dotfiles.
+Installs JetBrains Rider (EAP).
 
 ## Install
-Clone and symlink or install with [ellipsis][ellipsis]:
-
-```
-$ ellipsis install katharinegillis/rider
-```
-
-[ellipsis]: http://ellipsis.sh
+Installs via the [katharinegillis/dot-desktop](https://github.com/katharinegillis/dot-desktop).
